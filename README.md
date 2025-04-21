@@ -1,4 +1,4 @@
-🏦 Bank Management System – Python Project (2nd Semester)
+Python Project (2nd Semester)
 📌 Project Title:
 Bank Management System Using Python (Basic Level)
 
